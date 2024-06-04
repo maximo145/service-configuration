@@ -1,6 +1,6 @@
 product:
   name: Product Service Dev Update
-sprig:
+spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/microservices
   jpa:

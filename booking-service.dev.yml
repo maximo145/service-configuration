@@ -1,0 +1,7 @@
+product:
+  name: Booking Service Dev
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/microservices
+    username: postgres
+    password: admin123

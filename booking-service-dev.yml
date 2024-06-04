@@ -1,0 +1,8 @@
+product:
+  name: Booking Service Dev
+spring:
+  jpa:
+    show-sql: false
+    hibernate:
+      ddl-auto: update
+    generate-ddl: true

@@ -8,4 +8,4 @@ spring:
     hibernate:
       ddl-auto: update
 app:
-  testProp: TestProp Prueba
+  testProp: TestProp Prueba Updates

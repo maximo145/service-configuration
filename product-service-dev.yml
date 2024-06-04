@@ -1,8 +1,6 @@
 product:
   name: Product Service Dev Update
 spring:
-  datasource:
-    url: jdbc:postgresql://localhost:5432/microservices
   jpa:
     show-sql: false
     hibernate:

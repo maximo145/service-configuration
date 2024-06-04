@@ -1,2 +1,7 @@
 product:
   name: Product Service Dev
+sprig:
+  jpa:
+    show-sql: false
+    hibernate:
+      ddl-auto: update

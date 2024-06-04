@@ -1,5 +1,5 @@
 product:
-  name: Product Service Dev
+  name: Product Service Dev Update
 sprig:
   jpa:
     show-sql: false

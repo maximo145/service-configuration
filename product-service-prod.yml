@@ -1,5 +1,2 @@
 product:
   name: Product Service Prod
-spring:
-  datasource:
-    url: jdbc:postgresql://localhost:5432/microservices

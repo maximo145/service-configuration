@@ -1,6 +1,8 @@
 product:
   name: Product Service Dev Update
 sprig:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/microservices
   jpa:
     show-sql: false
     hibernate:
